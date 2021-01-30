@@ -14,4 +14,4 @@ Back end Requirements:
 
 Developement Team:
 
-1.Roshani Chavan 2.Neha Adawadkar 3.Shrutika More 4.Chaitra Patwardhan
+1.Chaitra Patwardhan 2.Shrutika More 3.Neha Adawadkar 4.Roshani Chavan
